@@ -1,5 +1,5 @@
 {
-  "name": "generator-generator",
+  "name": "generator-capow",
   "version": "5.1.0",
   "description": "Generate a Yeoman generator",
   "author": "Yeoman team",
@@ -16,8 +16,10 @@
     "create",
     "boilerplate"
   ],
-  "repository": "yeoman/generator-generator",
+  "repository": "yeoman/generator-capow",
   "scripts": {
+    "start": "rollup -c",
+    "dev": "rollup -c -w",
     "test": "jest",
     "pretest": "eslint . --fix",
     "prepublishOnly": "npm audit"

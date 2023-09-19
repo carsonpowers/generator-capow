@@ -1,4 +1,4 @@
-# generator-generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-generator.svg?branch=master)](https://travis-ci.org/yeoman/generator-generator) [![Coverage Status](https://coveralls.io/repos/yeoman/generator-generator/badge.svg?branch=master&service=github)](https://coveralls.io/github/yeoman/generator-generator?branch=master)
+# generator-capow [![Build Status](https://secure.travis-ci.org/yeoman/generator-capow.svg?branch=master)](https://travis-ci.org/yeoman/generator-capow) [![Coverage Status](https://coveralls.io/repos/yeoman/generator-capow/badge.svg?branch=master&service=github)](https://coveralls.io/github/yeoman/generator-capow?branch=master)
 
 
 > Yeoman generator generating a Yeoman generator
@@ -8,7 +8,7 @@
 
 ## Getting started
 
-- Install: `npm install -g yo generator-generator`
+- Install: `npm install -g yo generator-capow`
 - Run: `yo generator`
 
 
